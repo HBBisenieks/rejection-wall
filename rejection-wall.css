@@ -1,0 +1,33 @@
+/**** BEGIN REJECTION STYLE ****/
+.rejection-input-wrapper
+{
+	padding:15px 0px 15px 0px;
+	width:255px;
+}
+.rejection-input-wrapper input
+{
+	width:45px;
+	min:"1";
+}
+.rejection-text
+{
+	width:100px;
+	float:left;
+}
+.rejection-boxes
+{
+	width:50px;
+	float:none;
+	margin-left:auto;
+	margin-right:auto;
+}
+.rejection-legend
+{
+	float:right;
+}
+.rejection-output-wrapper
+{
+	height:100px;
+}
+/**** END REJECTION STYLE ****/
+
