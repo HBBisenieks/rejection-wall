@@ -2,32 +2,29 @@
 .rejection-input-wrapper
 {
 	padding:15px 0px 15px 0px;
-	width:255px;
+	display:flex;
 }
 .rejection-input-wrapper input
 {
 	width:45px;
+	height:2.2em;
 	min:"1";
 }
 .rejection-text
 {
-	width:100px;
 	float:left;
 }
 .rejection-boxes
 {
-	width:50px;
-	float:none;
-	margin-left:auto;
-	margin-right:auto;
+	padding-left:.2em;
 }
 .rejection-legend
 {
-	float:right;
+	padding-left:.2em;
 }
 .rejection-output-wrapper
 {
-	height:100px;
+	height:4em;
 }
 /**** END REJECTION STYLE ****/
 
